@@ -1,0 +1,24 @@
+# 🐍 My Python Learning Journey — Day 1
+
+> 🚀 Day 1 of my journey to learn Python and build my programming skills.
+
+---
+
+## 📚 What I Learned Today
+
+### 1️⃣ Program Basics
+
+I learned how variables and basic arithmetic operations work in Python.
+
+```python
+a = 10
+b = 15
+
+c = a + b
+print(c)       # 25
+
+c = b / a
+print(c)       # 1.5
+
+c = b - a
+print(c)       # 5
